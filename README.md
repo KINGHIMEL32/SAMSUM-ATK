@@ -1,4 +1,4 @@
-# rtger
+# COMMAND
 pip install requests
 
 pip install rich 
